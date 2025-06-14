@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite both the original paper and this repository."
 authors:
-  - family-names: "Repository Authors"
-    given-names: "Various"
+  - family-names: "Artaasd"
+    given-names: "95"
 title: "Regime-Switching Heston-Hull-White Model Implementation"
 version: 1.0.0
 date-released: 2024-03-19
-url: "https://github.com/yourusername/regime-switching-heston-hullwhite"
-repository-code: "https://github.com/yourusername/regime-switching-heston-hullwhite" 
+url: "https://github.com/artaasd95/regime-switching-heston-hullwhite"
+repository-code: "https://github.com/artaasd95/regime-switching-heston-hullwhite" 
